@@ -3,7 +3,7 @@
     "resultCode": "PresentToShopper",
     "action": {
       "paymentData": "Ab02b4c0!BQABAgCpM2q6...==",
-      "paymentMethodType": "bcmc_mobile_QR",
+      "paymentMethodType": "bcmc_mobile_app",
       "qrCodeData": "BEP://1bcmc-test.adyen.com/pal/bep$RYB4BPBNXDTVG3PLKTXV5OVE",
       "type": "qrCode"
     }

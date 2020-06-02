@@ -1,5 +1,5 @@
 {
-  "payments/qr": {
+  "paymentsqr": {
     "resultCode": "PresentToShopper",
     "action": {
       "paymentData": "Ab02b4c0!BQABAgCpM2q6...==",
@@ -8,7 +8,7 @@
       "type": "qrCode"
     }
   },
-  "payments/app": {
+  "paymentsapp": {
     "resultCode": "PresentToShopper",
     "action": {
       "paymentData": "Ab02b4c0!BQABAgCpM2q6...==",

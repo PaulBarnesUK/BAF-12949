@@ -1,5 +1,6 @@
 {
   "payments": {
+    "resultCode": "PresentToShopper",
     "action": {
       "paymentData": "Ab02b4c0!BQABAgCpM2q6...==",
       "paymentMethodType": "bcmc_mobile_QR",

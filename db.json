@@ -1,12 +1,10 @@
 {
-  "checkout": {
-    "payments": {
-      "action": {
-        "paymentData": "Ab02b4c0!BQABAgCpM2q6...==",
-        "paymentMethodType": "bcmc_mobile_QR",
-        "qrCodeData": "BEP://1bcmc-test.adyen.com/pal/bep$RYB4BPBNXDTVG3PLKTXV5OVE",
-        "type": "qrCode"
-      }
+  "payments": {
+    "action": {
+      "paymentData": "Ab02b4c0!BQABAgCpM2q6...==",
+      "paymentMethodType": "bcmc_mobile_QR",
+      "qrCodeData": "BEP://1bcmc-test.adyen.com/pal/bep$RYB4BPBNXDTVG3PLKTXV5OVE",
+      "type": "qrCode"
     }
   }
 }
